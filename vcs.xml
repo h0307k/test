@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/h0307k/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/h0307k/STUDY.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/PyGame" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/study" />
   </component>
 </application>
